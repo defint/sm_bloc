@@ -14,7 +14,7 @@ class SmBLOCApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'SM Native',
+      title: 'SM Bloc',
       theme: ThemeData(
           brightness: Brightness.dark,
           primaryColor: Colors.orange,
